@@ -14,3 +14,6 @@ This Plugin is to integrate ePayment gateway with Chargily easily.
 4. Start developing.
 5. Finished? Push and merge.
 
+# Usage 
+You can actually use the 'chargily' [react js npm package](https://github.com/Chargily/chargily-epay-react-js).
+
